@@ -1,0 +1,12 @@
+{
+  "name": "nanoaddr-ts",
+  "version": "1.0.0",
+  "description": "Zero-dependency TypeScript port of vendor/nanoaddr.py (Nano XNO address codec & blake2b-40 checksum validator) with known-answer vectors",
+  "type": "module",
+  "main": "src/nanoaddr.ts",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/nanoaddr.test.ts"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
