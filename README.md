@@ -1,5 +1,7 @@
 # nanoaddr-ts
 
+[![CI](https://github.com/ket4min-susan/nanoaddr-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/ket4min-susan/nanoaddr-ts/actions/workflows/ci.yml) · [GitLab Mirror (`@memwm`)](https://gitlab.com/memwm/nanoaddr-ts)
+
 Zero-dependency TypeScript port of [`vendor/nanoaddr.py`](https://github.com/dhyabi2/paid-work-queue/blob/main/vendor/nanoaddr.py) from [`dhyabi2/paid-work-queue`](https://github.com/dhyabi2/paid-work-queue) (delivered for [`job-2026-09-26-003`](https://github.com/dhyabi2/paid-work-queue/issues/29)).
 
 ## Features & Conformance
